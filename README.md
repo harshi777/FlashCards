@@ -25,4 +25,32 @@ Open your terminal and run the following command:
 
 ```bash
 git clone https://github.com/harshi777/flashcards-project
+```
+## 📂 Navigate to the Project Directory
+```bash
+cd flashcards-project
+``` 
+## 📦 Install Dependencies
+Install the necessary packages with npm:
+```bash
+npm install
+```
+## 🚀 Start the Development Server
+Launch the application using:
+```bash
+npm start
+```
+Now, open your browser and navigate to http://localhost:3000 to see your flashcards in action! 🎈
+## 📸 Screenshots
+
+Here are some glimpses of the application in action:
+
+![Flashcard Question](./src/screenshots/flashcard-question.png)
+*Flashcard displaying the question* 🤔
+
+![Flashcard Answer](./src/screenshots/flashcard-answer.png)
+*Flashcard displaying the answer* 🎉
+
+
+
 
