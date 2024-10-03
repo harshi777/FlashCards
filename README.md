@@ -10,7 +10,6 @@ In this project, I aimed to brush up on my understanding of state management in 
 
 - **Interactive Flashcards:** Click on cards to flip them and reveal answers! 🔄
 - **Easy Navigation:** Seamlessly switch between questions and answers. 📖➡️📘
-- **Responsive Design:** Looks great on all devices! 📱💻
 
 ## 🛠️ Getting Started
 
@@ -25,4 +24,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed. 🛠️
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/harshi777/flashcards-project.git
+git clone https://github.com/harshi777/flashcards-project.
+
+## 📂 Navigate to the Project Directory
