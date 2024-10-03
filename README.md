@@ -24,6 +24,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed. 🛠️
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/harshi777/flashcards-project.
+git clone https://github.com/harshi777/flashcards-project
 
-## 📂 Navigate to the Project Directory
