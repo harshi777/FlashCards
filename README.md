@@ -45,10 +45,10 @@ Now, open your browser and navigate to http://localhost:3000 to see your flashca
 
 Here are some glimpses of the application in action:
 
-![Flashcard Question](./src/screenshots/fq.png)
+![Flashcard Question](screenshots/fq.png)
 *Flashcard displaying the question* 🤔
 
-![Flashcard Answer](./src/screenshots/fa.png)
+![Flashcard Answer](screenshots/fa.png)
 *Flashcard displaying the answer* 🎉
 
 
